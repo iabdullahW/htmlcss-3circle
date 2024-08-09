@@ -1,0 +1,10 @@
+.hashir {
+    border: solid;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color:#42a1d0 ;
+    margin:40px;
+    position: relative;
+    text-align: center;
+  }
